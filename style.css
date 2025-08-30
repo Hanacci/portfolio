@@ -1,0 +1,48 @@
+@media (max-width: 600px) {
+  .header > img {
+    width: 450px;
+  }
+}
+
+.background-color {
+  background-color: white;
+  background-size: 180% 180%;
+}
+
+.libre {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.flowers {
+  font-family: "Send Flowers", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.serif {
+  font-family: "Source Serif 4", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.photo {
+  border-radius: 60%;
+}
+
+.header-background {
+  background-color: #e8f9ff;
+}
+
+hr {
+  border: dotted #011469 6px;
+  border-bottom: none;
+  width: 8%;
+  margin: 50px auto;
+}
+
+h4 {
+  color: #25deff;
+}
